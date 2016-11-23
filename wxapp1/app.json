@@ -1,0 +1,19 @@
+{
+	"pages": [
+		"pages/index/index"
+	],
+	"window": {
+		"backgroundTextStyle": "ligth",
+		"navigationBarBackgroundColor": "#f0f",
+		"navigationBarTitleText": "MyWechat",
+		"navigationBarTextStyle": "red"
+	},
+	"tabBar": {
+		"list": [{
+			"pagePath": "pages/index/index",
+			"text": "我的首页",
+			"iconPath": "",
+			"selectedIconPath": ""
+		}]
+	}
+}
